@@ -1,0 +1,1 @@
+from my_module.my_logic import MyClass
